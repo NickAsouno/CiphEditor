@@ -1,2 +1,3 @@
-In our world we should to keep our data secure, therefore i created this convenient note with AES algorithm, that encrypts your data. Here I concatenated two words - conviniently and securely.
-Just look at this.
+Here I took together the best algorithms, version 2.0 has such algorithms like AES and Blowfish, also hashing algorithms like SHA-256 and SHA-512.
+Here your data will feel itself secure. 
+You just should to check it.
